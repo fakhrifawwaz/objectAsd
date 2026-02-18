@@ -15,6 +15,9 @@ public class MahasiswaMain15 {
         mhs2.updateIpk(3.30);
         mhs2.tampilkanInformasi();
 
+        Mahasiswa15 mhsMuhammadFakhri = new Mahasiswa15("Muhammad Fakhri Al Fawwaz", "254107060099", "SI 1A", 3.79);
+        mhsMuhammadFakhri.tampilkanInformasi();
+
     }
 }
 
